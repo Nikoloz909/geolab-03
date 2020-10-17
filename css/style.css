@@ -2,6 +2,11 @@
 .d-inline-block{
     display: inline-block;
 }
+.container{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
  /* base classes end */
  /* header styles */
  .header-section{
@@ -27,3 +32,22 @@
     color: #EE4036;
 }
  /* header styles end  */
+/* banner section  */
+.banner-section{
+    margin-top: 77px;
+    margin-left: 98px;
+}
+.banner-wrapper{
+    position: relative;
+}
+.title-ul{
+    position: absolute;
+    top: 24px;
+    left: 40px;
+    font-size: 30px;
+    font-family: 'BPG Nino Medium';
+    font-style: oblique;
+    color: #fff;
+}
+
+/* banner section end  */
