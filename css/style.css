@@ -49,5 +49,55 @@
     font-style: oblique;
     color: #fff;
 }
-
 /* banner section end  */
+/* text block section  */
+.text-block{
+    margin-top: 118px;
+    margin-left: 98px;
+    width: 570px;
+}
+.text-block-title{
+    color: #000;
+    font-size: 24px;
+    font-family: 'Roboto';
+}
+.left-block{
+    margin-top: 30px;
+    background-color: #F2F2F2;
+    width: 570px;
+}
+.left-block-title{
+    font-size: 22px;
+    font-family: 'Roboto';
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.block-img{
+    margin-top: 13px;
+    margin-left: 39px;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+.block-p {
+    width: 355px;
+    padding-top: 17.5px ;
+    font-family: 'Roboto';
+    font-size: 20px;
+    padding-left: 60px;
+    padding-right: 15px;
+   font-style: italic;
+   /* line-height: 1.5; */
+}
+.right-block{
+    background-color: #F2F2F2;
+    width: 570px;
+    
+}
+.right-block-title{
+    font-size: 22px;
+    font-family: 'Roboto';
+    margin-top: 12px;
+    margin-left: 20px;
+    
+}
+/* text block section end  */
