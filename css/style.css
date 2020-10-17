@@ -115,6 +115,17 @@
 }
 /* text block section end  */
 /* footer section  */
-
-
+.footer-section{
+    margin-top: 70px;
+    margin-left: 110px;
+    margin-bottom: 40px;
+}
+.footer-wrapper::after{
+    content: "";
+    width: 2px;
+    height: 27px;
+    background-color: #363E97;
+    display: inline-block;
+    margin: 0 35px;
+}
 /* footer section end  */
