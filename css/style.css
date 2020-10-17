@@ -36,6 +36,7 @@
 .banner-section{
     margin-top: 77px;
     margin-left: 98px;
+    margin-bottom: 118px;
 }
 .banner-wrapper{
     position: relative;
@@ -52,52 +53,68 @@
 /* banner section end  */
 /* text block section  */
 .text-block{
-    margin-top: 118px;
     margin-left: 98px;
-    width: 570px;
 }
-.text-block-title{
-    color: #000;
-    font-size: 24px;
-    font-family: 'Roboto';
-}
-.left-block{
-    margin-top: 30px;
+.left-box {
     background-color: #F2F2F2;
     width: 570px;
+    vertical-align: top;
+    margin-right: 29px;
 }
-.left-block-title{
+.box-title{
+    font-size: 24px;
+    font-family: "roboto";
+    margin-bottom: 30px;
+}
+.box-titile-h4{
     font-size: 22px;
-    font-family: 'Roboto';
-    margin-top: 12px;
+    font-family: "roboto";
+    color: #3D58A6;
+    margin-top: 11px;
     margin-left: 20px;
 }
-.block-img{
+.box-img{
     margin-top: 13px;
-    margin-left: 39px;
-    vertical-align: top;
+    margin-left: 38px;
+    margin-right: 60px;
     margin-bottom: 40px;
 }
-.block-p {
+.box-p{
     width: 355px;
-    padding-top: 17.5px ;
-    font-family: 'Roboto';
-    font-size: 20px;
-    padding-left: 60px;
-    padding-right: 15px;
-   font-style: italic;
-   /* line-height: 1.5; */
+    vertical-align: top;
+    padding-top: 10px;
+    font-family: "roboto";
+    font-size: 22px;
+    color: #333333;
 }
 .right-block{
-    background-color: #F2F2F2;
     width: 570px;
-    
+    background-color:#F2F2F2;
+
 }
-.right-block-title{
+.right-box-title{
     font-size: 22px;
-    font-family: 'Roboto';
-    margin-top: 12px;
-    margin-left: 20px;
-    
+    font-family: "roboto";
+    color: #3D58A6;
+    margin-top: 11px;
+    margin-left: 17px;
+}
+.right-block-img{
+    margin-top: 21px;
+    margin-left: 63px;
+    margin-right: 52px;
+    margin-bottom: 36px;
+    vertical-align: top;
+}
+.right-block-p{
+    width: 353px;
+    font-size: 20px;
+    font-family: "roboto";
+    color: #58595B;
+    margin-top: 18px;
 }
 /* text block section end  */
+/* footer section  */
+
+
+/* footer section end  */
