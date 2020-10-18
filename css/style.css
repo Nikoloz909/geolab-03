@@ -174,3 +174,45 @@
     font-weight: bold;
 }
 /* news page end  */
+/* contact-page  */
+.nav-a{
+    font-family: 'BPG Nino Medium';
+    font-size: 20px;
+}
+.map-wrapper{
+    margin-bottom: 25px;
+}
+.map-section{
+    background-color:#E6E6E6 ;
+    
+}
+.h3-map-title{
+    color: #3D58A6;
+    font-size: 20px;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+.left-box-1{
+    margin-top: 51px;
+    margin-left: 98px;
+    background-color: #E6E6E6; 
+     width: 261px;
+     vertical-align: top;
+    display: inline-block;
+    
+}
+.adres-title{
+    color: #808080;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+.adres-li{
+    color:#000000 ;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+.right-box-2{
+    margin-top: 51px;
+    margin-right:90px;
+    margin-bottom: 50px;
+    margin-left: 43px;
+    display: inline-block;
+}
+/* contact-page end */
